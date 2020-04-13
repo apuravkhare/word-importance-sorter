@@ -1,0 +1,76 @@
+SUMMARY: 
+Errors in range <= 0.299: 31
+Errors in range <= 0.549: 19
+Errors in range > 0.549: 12
+
+
+<= 0.299: 
+may
+i
+all
+for
+all
+of
+the
+you
+and
+and
+on
+and
+do
+okay
+a
+at
+the
+this
+of
+a
+those
+a
+to
+for
+and
+has
+out
+of
+for
+with
+other
+
+
+<= 0.549: 
+over
+port
+18
+leaving
+islands
+port
+addition
+take
+take
+look
+accommodation
+2
+want
+rooms
+2
+use
+will
+onboard
+questions
+
+
+> 0.549: 
+reunion
+reunion
+island
+nights
+cruise
+balcony
+balcony
+book
+go-cart
+trip
+reunion
+cost
+

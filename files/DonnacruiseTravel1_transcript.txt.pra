@@ -1,0 +1,263 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   ./DonnacruiseTravel1_transcript.txt
+
+Speakers: 
+    0:  spk1
+
+Speaker sentences   0:  spk1   #utts: 42
+id: (spk1_1)
+Scores: (#C #S #D #I) 12 1 1 0
+REF:  good afternoon this is gene from global travel how MAY I    assist you today 
+HYP:  good afternoon this is gene from global travel how *** MANY assist you today 
+Eval:                                                    D   S                     
+
+id: (spk1_2)
+Scores: (#C #S #D #I) 9 0 0 0
+REF:  hello rebecca yes we specialize in cruise travel worldwide 
+HYP:  hello rebecca yes we specialize in cruise travel worldwide 
+Eval:                                                            
+
+id: (spk1_3)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  are you thinking of planning a cruise 
+HYP:  are you thinking of planning a cruise 
+Eval:                                       
+
+id: (spk1_4)
+Scores: (#C #S #D #I) 18 3 0 2
+REF:  yes we can assist you in planning a family REUNION  cruise for your extended family that lives ** ********* ALL    OVER the us 
+HYP:  yes we can assist you in planning a family REUNIONS cruise for your extended family that lives IN DIFFERENT CITIES IN   the us 
+Eval:                                            S                                                   I  I         S      S           
+
+id: (spk1_5)
+Scores: (#C #S #D #I) 10 1 0 0
+REF:  how many people would be included in this family REUNION  vacation 
+HYP:  how many people would be included in this family REUNIONS vacation 
+Eval:                                                  S                 
+
+id: (spk1_6)
+Scores: (#C #S #D #I) 13 0 1 0
+REF:  yes i can help you book FOR a group cruise for 12 family members 
+HYP:  yes i can help you book *** a group cruise for 12 family members 
+Eval:                         D                                        
+
+id: (spk1_7)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  what dates will you be traveling 
+HYP:  what dates will you be traveling 
+Eval:                                  
+
+id: (spk1_8)
+Scores: (#C #S #D #I) 9 0 0 1
+REF:  **** you would like to travel during the summer months 
+HYP:  OKAY you would like to travel during the summer months 
+Eval: I                                                      
+
+id: (spk1_9)
+Scores: (#C #S #D #I) 12 0 0 0
+REF:  do you have a specific location you would like to cruise to 
+HYP:  do you have a specific location you would like to cruise to 
+Eval:                                                             
+
+id: (spk1_10)
+Scores: (#C #S #D #I) 8 0 2 3
+REF:  you would like to see ALL OF the hawaiian islands ****** *** ****** 
+HYP:  you would like to see *** ** the hawaiian islands DURING THE SUMMER 
+Eval:                       D   D                       I      I   I      
+
+id: (spk1_11)
+Scores: (#C #S #D #I) 11 2 0 0
+REF:  most of THE cruises to the hawaiian ISLAND  leave from a california port 
+HYP:  most of OUR cruises to the hawaiian ISLANDS leave from a california port 
+Eval:         S                           S                                    
+
+id: (spk1_12)
+Scores: (#C #S #D #I) 13 1 0 0
+REF:  what PORT would be the most convenient for your group of 12 family members 
+HYP:  what PART would be the most convenient for your group of 12 family members 
+Eval:      S                                                                     
+
+id: (spk1_13)
+Scores: (#C #S #D #I) 19 0 0 0
+REF:  yes we can find you a cruise during the summer months for 12 people leaving out of san diego 
+HYP:  yes we can find you a cruise during the summer months for 12 people leaving out of san diego 
+Eval:                                                                                              
+
+id: (spk1_14)
+Scores: (#C #S #D #I) 9 0 0 0
+REF:  how many nights would you like to cruise for 
+HYP:  how many nights would you like to cruise for 
+Eval:                                              
+
+id: (spk1_15)
+Scores: (#C #S #D #I) 8 1 1 0
+REF:  most hawaiian island cruises are between 7 and 18 NIGHTS 
+HYP:  most hawaiian island cruises are between 7 and ** 18/9   
+Eval:                                                D  S      
+
+id: (spk1_16)
+Scores: (#C #S #D #I) 11 0 0 0
+REF:  okay you would like to book a cruise for 10 days 
+HYP:  okay you would like to book a cruise for 10 days 
+Eval:                                                  
+
+id: (spk1_17)
+Scores: (#C #S #D #I) 11 0 0 0
+REF:  yes we can find something for you that meets your schedule 
+HYP:  yes we can find something for you that meets your schedule 
+Eval:                                                            
+
+id: (spk1_18)
+Scores: (#C #S #D #I) 19 1 0 5
+REF:  we have a cruise that leaves july 10th for 10 days returning on july 20th **** ****** ***** LEAVING out of *** san diego ******* 
+HYP:  we have a cruise that leaves july 10th for 10 days returning on july 20th THAT CRUISE WOULD LEAVE   out of THE san diego AIRPORT 
+Eval:                                                                           I    I      I     S              I             I       
+
+id: (spk1_19)
+Scores: (#C #S #D #I) 10 0 0 0
+REF:  this cruise would be on the adventure islands cruise line 
+HYP:  this cruise would be on the adventure islands cruise line 
+Eval:                                                           
+
+id: (spk1_20)
+Scores: (#C #S #D #I) 6 1 0 1
+REF:  does that time frame work for **** YOU    
+HYP:  does that time frame work for YOUR FAMILY 
+Eval:                               I    S      
+
+id: (spk1_21)
+Scores: (#C #S #D #I) 13 1 0 4
+REF:  this cruise includes the ****** **** **** ***** ISLANDS honolulu maui kauai and the big island of hawaii 
+HYP:  this cruise includes the ISLAND OAHU ALSO KNOWN AS      honolulu maui kauai and the big island of hawaii 
+Eval:                          I      I    I    I     S                                                        
+
+id: (spk1_22)
+Scores: (#C #S #D #I) 26 3 0 0
+REF:  it includes off shore excursions to pearl harbor AND waikiki beach from oahu also a drive to hana AND a visit to the haleakala volcano from the maui PORT    
+HYP:  it includes off shore excursions to pearl harbor IN  waikiki beach from oahu also a drive to hana OR  a visit to the haleakala volcano from the maui AIRPORT 
+Eval:                                                  S                                                S                                                  S       
+
+id: (spk1_23)
+Scores: (#C #S #D #I) 28 2 2 4
+REF:  in ADDITION when ON  the big island you can TAKE AND visit the volcano national park ** ** snorkeling at *** captain cook ******** in kona where they have some of the best snorkeling in hawaii 
+HYP:  in EDITION  when I'M the big island you can **** *** visit the volcano national park OR GO snorkeling at THE captain cook MONUMENT in kona where they have some of the best snorkeling in hawaii 
+Eval:    S             S                          D    D                                   I  I                I                I                                                                      
+
+id: (spk1_24)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  DO any of these tours interest you 
+HYP:  TO any of these tours interest you 
+Eval: S                                  
+
+id: (spk1_25)
+Scores: (#C #S #D #I) 12 9 1 1
+REF:  OKAY  then we can TAKE A     LOOK AT  THE  cabins *** available for THIS CRUISE and the cost OF  each level of ACCOMMODATION 
+HYP:  GREAT then we can **** CHECK TO   SEE WHAT cabins ARE available for THE  SCREWS and the cost FOR each level of CABIN         
+Eval: S                 D    S     S    S   S           I                 S    S                   S                 S             
+
+id: (spk1_26)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  how many rooms will you be needing 
+HYP:  how many rooms will you be needing 
+Eval:                                    
+
+id: (spk1_27)
+Scores: (#C #S #D #I) 16 1 0 0
+REF:  okay you will need 4 rooms 2  rooms have 4 people and 2 rooms have 2 people 
+HYP:  okay you will need 4 rooms TO rooms have 4 people and 2 rooms have 2 people 
+Eval:                            S                                                
+
+id: (spk1_28)
+Scores: (#C #S #D #I) 3 5 0 2
+REF:  do you ****** ****** WANT       A  BALCONY with THOSE ROOMS   
+HYP:  do you PREFER INSIDE STATEROOMS OR ROOMS   with A     BALCONY 
+Eval:        I      I      S          S  S            S     S       
+
+id: (spk1_29)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  how many children will be traveling with you 
+HYP:  how many children will be traveling with you 
+Eval:                                              
+
+id: (spk1_30)
+Scores: (#C #S #D #I) 17 0 0 2
+REF:  okay *** **** 8 adults 2 children under age 5 and 2 children ages 12 and 14 years old 
+HYP:  okay YOU HAVE 8 adults 2 children under age 5 and 2 children ages 12 and 14 years old 
+Eval:      I   I                                                                            
+
+id: (spk1_31)
+Scores: (#C #S #D #I) 12 1 1 0
+REF:  yes there is availability on this cruise for 4 cabins that have A BALCONY   
+HYP:  yes there is availability on this cruise for 4 cabins that have * BALCONIES 
+Eval:                                                                 D S         
+
+id: (spk1_32)
+Scores: (#C #S #D #I) 35 1 0 0
+REF:  so you would like 2  cabins each with 2 adults 1 family cabin with 2 adults and 2 children under the age of 5 1 family cabin with 2 adults and 2 teenagers all with balconies 
+HYP:  so you would like TO cabins each with 2 adults 1 family cabin with 2 adults and 2 children under the age of 5 1 family cabin with 2 adults and 2 teenagers all with balconies 
+Eval:                   S                                                                                                                                                           
+
+id: (spk1_33)
+Scores: (#C #S #D #I) 18 0 0 0
+REF:  this cruise line is offering a few specials for that cruise date would you like to hear them 
+HYP:  this cruise line is offering a few specials for that cruise date would you like to hear them 
+Eval:                                                                                              
+
+id: (spk1_34)
+Scores: (#C #S #D #I) 26 4 0 6
+REF:  if you BOOK   this cruise by april 1st you will receive ***** credit for 2 off shore ********* vouchers per room *** ***** ***** TO    USE      FOR     some of the off shore excursions i mentioned ******* 
+HYP:  if you BOOKED this cruise by april 1st you will receive SHIFT credit for 2 off shore EXCURSION vouchers per room YOU COULD APPLY THESE VOUCHERS TOWARDS some of the off shore excursions i mentioned EARLIER 
+Eval:        S                                                I                            I                           I   I     I     S     S        S                                                    I       
+
+id: (spk1_35)
+Scores: (#C #S #D #I) 22 0 0 2
+REF:  in addition for the adults this includes a ******* guided tour of the kitchen the engine room and *** art collection on the ship 
+HYP:  in addition for the adults this includes a PRIVATE guided tour of the kitchen the engine room and THE art collection on the ship 
+Eval:                                            I                                                      I                              
+
+id: (spk1_36)
+Scores: (#C #S #D #I) 18 2 3 4
+REF:  for the children they WILL have unlimited access to the water slides mini golf course AND the GO-CART track **** ** ** ***** this ship HAS ONBOARD 
+HYP:  for the children they **** have unlimited access to the water slides mini golf course IN  the GO-KART track THAT IS ON BOARD this ship *** ******* 
+Eval:                       D                                                               S       S             I    I  I  I               D   D       
+
+id: (spk1_37)
+Scores: (#C #S #D #I) 11 2 0 0
+REF:  does this sound like a TRIP   that would work for your family REUNION  
+HYP:  does this sound like a CRUISE that would work for your family REUNIONS 
+Eval:                        S                                      S        
+
+id: (spk1_38)
+Scores: (#C #S #D #I) 17 0 0 0
+REF:  great i will work up a price for you and call you back this afternoon at 7167352110 
+HYP:  great i will work up a price for you and call you back this afternoon at 7167352110 
+Eval:                                                                                     
+
+id: (spk1_39)
+Scores: (#C #S #D #I) 41 2 3 16
+REF:  i will also ***** *** * price OUT the COST OF airfare for 8 people ********* from denver to san diego and FOR 6 people ********* from phoenix to san diego the day prior to the cruise * **** ******* *** ***** WITH hotel accommodations at the sunset hotel near the cruise port in san diego *** ***** ***** ** *** ****** 
+HYP:  i will also QUOTE YOU A price FOR the **** ** airfare for 8 people TRAVELING from denver to san diego and *** 6 people TRAVELING from phoenix to san diego the day prior to the cruise I WILL INCLUDE THE PRICE FOR  hotel accommodations at the sunset hotel near the cruise port in san diego THE NIGHT PRIOR TO THE CRUISE 
+Eval:             I     I   I       S       D    D                       I                                      D            I                                                               I I    I       I   I     S                                                                               I   I     I     I  I   I      
+
+id: (spk1_40)
+Scores: (#C #S #D #I) 16 1 1 0
+REF:  do you have any OTHER QUESTIONS   about this cruise before i work up a price for your trip 
+HYP:  do you have any ***** SUGGESTIONS about this cruise before i work up a price for your trip 
+Eval:                 D     S                                                                    
+
+id: (spk1_41)
+Scores: (#C #S #D #I) 10 0 0 0
+REF:  okay great i will get back to you later today 
+HYP:  okay great i will get back to you later today 
+Eval:                                               
+
+id: (spk1_42)
+Scores: (#C #S #D #I) 11 0 0 0
+REF:  rebecca thank you for choosing global travel for your vacation planning 
+HYP:  rebecca thank you for choosing global travel for your vacation planning 
+Eval:                                                                         
+
+

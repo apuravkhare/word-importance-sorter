@@ -48,14 +48,14 @@ def create_bins(importance_scores):
     bins = {'<= 0.299': [], '<= 0.549': [], '> 0.549': []}
     for score in importance_scores:
         if score[1] < 0.299:
-            bins['<= 0.299'].append(score)
+            bins['<= 0.299'].append(score[0])
         elif score[1] < 0.549:
-            bins['<= 0.549'].append(score)
+            bins['<= 0.549'].append(score[0])
         else:
-            bins['> 0.549'].append(score)
+            bins['> 0.549'].append(score[0])
 
-    for key in bins.keys():
-        bins[key].sort(key=lambda x: x[1])
+    # for key in bins.keys():
+        # bins[key].sort(key=lambda x: x[1])
 
     return bins
 
@@ -70,17 +70,18 @@ def write_to_file(bins, file_name):
     file_content = ''
     file_content = file_content + ('<= 0.299' + ': \n')
     for word in bins['<= 0.299']:
-        file_content = file_content + (str(word[0]) + '(' + str(word[1]) + ')' + '\n')
+        # file_content = file_content + (str(word[0]) + '(' + str(word[1]) + ')' + '\n')
+        file_content = file_content + (word + '\n')
 
     file_content = file_content + '\n\n'
     file_content = file_content + ('<= 0.549' + ': \n')
     for word in bins['<= 0.549']:
-        file_content = file_content + (str(word[0]) + '(' + str(word[1]) + ')' + '\n')
+        file_content = file_content + (word + '\n')
 
     file_content = file_content + '\n\n'
     file_content = file_content + ('> 0.549' + ': \n')
     for word in bins['> 0.549']:
-        file_content = file_content + (str(word[0]) + '(' + str(word[1]) + ')' + '\n')
+        file_content = file_content + (word + '\n')
 
     file = None
     try:
@@ -94,13 +95,7 @@ def write_to_file(bins, file_name):
             file.close()
 
 
-def main():
-    """
-    Reads the file's content, bins the words into importance categories and sorts them,
-    then writes the output to a file.
-    """
-    lines = read_file("./files/phase3_simp.txt")
-
+def categorize_words(lines):
     importance_scores = []
     # using a range to skip the first line that lists only the params
     for index in range(1, len(lines)):
@@ -110,7 +105,16 @@ def main():
             importance_scores.append(imp)
 
     bins = create_bins(importance_scores)
+    return bins
 
+
+def main():
+    """
+    Reads the file's content, bins the words into importance categories and sorts them,
+    then writes the output to a file.
+    """
+    lines = read_file("./files/phase3_simp.txt")
+    bins = categorize_words(lines)
     write_to_file(bins, './files/bins.txt')
 
 
